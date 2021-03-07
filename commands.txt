@@ -1,0 +1,26 @@
+I opened my terminal
+created a new directory, called it ‘test’
+made files called index.html, style.css, commands.txt
+made copy of index.html, called it index_2.html
+made another directory called destination
+moved index_2.html to the destination directory
+removed style.css
+deleted destination directory
+
+
+there are no contents to display in the terminal for file ‘commands.txt’ is empty- however, here are a few commands.
+
+
+1. pwd-Present working directory
+2. ls-list files
+3. ls-l- list files(long form)
+4. cd-changing to the parent directory
+5. cd .- changing to the current directory
+6. cd /- changing to the root directory
+7. cd folder_name-changing to any folder
+8. mkdir new_directory_name- making a new folder
+9. touch index.html-creating a new file
+10. touch style.css- creating a new file
+11. open .- opening current directory in your GUI
+12. cp -copyrf directory_name copy_directory_name- copying a directory
+
